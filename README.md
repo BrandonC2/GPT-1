@@ -36,7 +36,7 @@ The model is trained on a plain text file to learn and generate new sequences of
 ---
 
 ## Pre-req
-    Make sure you have Python installed: https://www.python.org/downloads/
+    Make sure you have [Python](https://www.python.org/downloads) installed
 
 ## How to Run
 
