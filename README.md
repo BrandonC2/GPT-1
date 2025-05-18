@@ -36,13 +36,13 @@ The model is trained on a plain text file to learn and generate new sequences of
 ---
 
 ## Pre-req
-    Make sure you have [Python](https://www.python.org/downloads) installed
+Make sure you have [Python](https://www.python.org/downloads) installed
 
 ## How to Run
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/character-level-gpt.git
+   git clone https://github.com/BrandonC2/GPT-1.git
    cd character-level-gpt
 
 2. Install pytorch
